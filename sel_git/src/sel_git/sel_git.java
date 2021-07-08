@@ -6,6 +6,7 @@ public class sel_git {
 	{
 		System.out.println("iss bar to hoja");
 		System.out.println("ab tho hoja");
+		System.out.println("ab tho accept karlo");
 
 	
 	}
